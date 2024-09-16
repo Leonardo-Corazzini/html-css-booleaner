@@ -43,3 +43,25 @@ th {
 .azzurro{
     background-color: rgb(148, 187, 245);
 }
+
+.finaltitle{
+    font-size: 18px;
+    color: gray;
+}
+
+.immagini{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.immagine1{
+    background-image: url("../img/monitor.jpg");
+    width: 200px;
+    height: 200px;
+}
+.immagine2{
+    background-image: url("../img/graph.jpg");
+    width: 200px;
+    height: 200px;
+}
