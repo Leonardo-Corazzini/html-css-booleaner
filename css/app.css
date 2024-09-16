@@ -1,0 +1,14 @@
+.pattern {
+    background-image: url("../img/pattern.png");
+    background-color: blue;
+    
+   }
+
+   .footer{
+    color: gray;
+   
+   }
+
+   strong{
+    color: blue;
+   }
